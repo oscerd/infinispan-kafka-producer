@@ -33,7 +33,7 @@
         <dependency>
             <groupId>org.infinispan.protostream</groupId>
             <artifactId>protostream</artifactId>
-            <version>4.1.0.Final</version>
+            <version>4.1.3.Final</version>
         </dependency>
 	</dependencies>
 
